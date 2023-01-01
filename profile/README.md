@@ -1,4 +1,4 @@
 ![image](./ascii.jpg)
 <h2 align="center">Hi There, dear Guest!</h2>
-<hr>
+
 <h3 align="center">We do Open Source!</h3>
